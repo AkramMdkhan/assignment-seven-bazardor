@@ -6,7 +6,7 @@
 
 A Bangla grocery price tracker that shows today's market prices of everyday essentials, how they changed since yesterday, and a market-by-market price breakdown.
 
-[Live Demo](YOUR_VERCEL_LINK_HERE) · [GitHub Repository](YOUR_GITHUB_REPO_LINK_HERE)
+[Live Website](https://assignment-seven-bazardor.vercel.app/) · [GitHub Repository](https://github.com/AkramMdkhan/assignment-seven-bazardor)
 
 </div>
 
