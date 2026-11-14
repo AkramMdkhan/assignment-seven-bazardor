@@ -147,7 +147,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 - **Live Website:** https://assignment-seven-bazardor.vercel.app
 - **GitHub Repository:** https://github.com/AkramMdkhan/assignment-seven-bazardor
-- **Portfolio:** https://akram-mohammad-khan-portfolio.vercel.app
 
 ---
 
@@ -162,7 +161,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 **Akram Mohammad Khan**, MERN Stack Developer
 
-[GitHub](https://github.com/AkramMdkhan) · [LinkedIn](https://www.linkedin.com/in/akrammdkhan)
+[GitHub](https://github.com/AkramMdkhan) · [LinkedIn](https://www.linkedin.com/in/akrammdkhan) · [Portfolio](https://akram-mohammad-khan-portfolio.vercel.app)
 
 <div align="center">
 
