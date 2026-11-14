@@ -14,7 +14,7 @@ A Bangla grocery price tracker that shows today's market prices of everyday esse
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-[Live Website](https://assignment-seven-bazardor.vercel.app/) · [GitHub Repository](https://github.com/AkramMdkhan/assignment-seven-bazardor) · [Portfolio](https://akram-mohammad-khan-portfolio.vercel.app)
+[Live Website](https://assignment-seven-bazardor.vercel.app/) · [GitHub Repository](https://github.com/AkramMdkhan/assignment-seven-bazardor) 
 
 <br/>
 
